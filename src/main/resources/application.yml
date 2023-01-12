@@ -3,13 +3,13 @@ server:
 spring:
   rabbitmq:
     #用户名
-    username: lisheng
+    username: XXX
     #密码
-    password: lisheng123
+    password: XXX
     #vhost
     virtual-host: /admin_vhost
     #rabbitmq服务IP
-    host: 49.232.163.234
+    host: 49.XXX.XXX.XXX
     #rabbitmq端口号
     port: 5672
     publisher-confirm-type: correlated
